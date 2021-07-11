@@ -1,5 +1,7 @@
 # Teams
 
+# when you click on the video conferencing button if it show application error please reload once or twice it will start working.It is happening due to dynos shutting down after one hour in Heroku
+
 ## Follow these simple steps to have your own Teams clone
 
 #### 1: Clone this repo using this command 
