@@ -5,7 +5,7 @@
 ## Follow these simple steps to have your own Teams clone
 
 #### 1: Clone this repo using this command 
-`git clone 
+`git clone https://github.com/thespacewa1ker/Teams.git `
 
 #### 2: Enter 
 `cd Teams_clone`
