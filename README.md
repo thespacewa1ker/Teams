@@ -13,6 +13,8 @@
 #### 3: Next
 `npm install`
 
-#### 6: Hit `npm start` in terminal & yoo! Teams clone!!  
+#### 4: Hit `npm start` in terminal & yoo! Teams clone!!  
 open at port 3000.
+
+#### 5:demo https://teams-video-frontend.herokuapp.com/
 
