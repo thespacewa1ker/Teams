@@ -16,5 +16,5 @@
 #### 4: Hit `npm start` in terminal & yoo! Teams clone!!  
 open at port 3000.
 
-#### 5:demo https://teams-video-frontend.herokuapp.com/
+#### 5:demo video conferencing https://teams-video-frontend.herokuapp.com/
 
